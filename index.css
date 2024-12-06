@@ -1,4 +1,13 @@
-.submenu_column {
-    margin: 5px;
-    padding: 5px;
+body {
+}
+
+.subnav {
+    display: grid;
+    background-color: cyan;
   }
+
+#table_border {
+    border: 1px solid black; 
+    border-collapse: collapse; 
+    width: 15%;
+}
